@@ -1,0 +1,120 @@
+.contact p {
+    font-size: 13px;
+ 
+}
+@media (max-width: 980px) {
+    .table-bordered tr th {
+        margin: 0;
+        padding: 0 !important;
+        width: 12%;
+    }
+    th, td {
+        width: 12% !important;
+    }
+    .column {
+        margin-left: 0;
+        width: 140px !important;
+    }
+    /*-------- Table Heading  -------*/
+    .contact p{font-size: 12px;}
+    .contact p{
+        line-height: 8px;
+    }
+
+    /*--------- Popup heading --------*/
+    .notes_right .row > h2{
+        font-family: icon;
+    }
+    .notes_left .row > h2{
+        font-family: icon;   
+    }
+    .row{
+         padding-bottom: 11px;
+    }
+
+
+}
+
+
+@media (max-width: 800px) {
+     th, td {
+        width: 12% !important;
+    }
+    .column {
+        width: 152px !important
+    }
+
+    .notes_right .row > h2{
+        font-family: icon;
+    }
+    .notes_left .row > h2{
+        font-family: icon;   
+    }
+    .sortable-list{
+        min-height: 100% !important;
+        margin-bottom: 10px !important;
+    }
+    .row{
+         padding-bottom: 11px;
+    }
+}
+
+@media (max-width: 480px) {
+     th, td {
+        width: 14% !important;
+    }
+    .column {
+        width: 100% !important;
+    }
+
+    .white_content {
+      left: 0% !important;
+      width: 92% !important;
+    }
+
+    .col-xs-12.col-md-6.notes_left .add_button{
+        margin-left: 0px !important;
+        width: 254px;
+    }
+
+    /*--------- Add paitent -----------*/
+    .white_content2{
+         left: 6%;
+         width: 90%;
+    }
+
+}
+
+@media (max-width: 320px) {
+     th, td {
+        width: 14% !important;
+    }
+    .column {
+        width: 100% !important;
+    }
+    .white_content {
+      background-color: white;
+      border-radius: 10px;
+      cursor: auto;
+      display: none;
+      overflow: auto;
+      position: fixed !important;
+      top: 13% !important;
+      z-index: 99999 !important;
+    }
+}
+
+@media (max-width: 1024px) {
+    .column {
+        width: 137px;
+    }
+    
+}
+
+
+@media (max-width: 1024px) {
+    i.arrow {
+        width: 5px;
+    }
+    
+}

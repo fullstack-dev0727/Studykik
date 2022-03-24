@@ -1,0 +1,3 @@
+CREATE TABLE 0gf1ba_api_patient_guids (subscriber_id INT  NOT NULL, study_post_id VARCHAR(255)  NOT NULL, guid VARCHAR(127) NOT NULL, KEY (subscriber_id,study_post_id), UNIQUE KEY (guid));
+CREATE TABLE 0gf1ba_subscriber_list_phone_old (subscriber_id INT  NOT NULL, post_id VARCHAR(255)  NOT NULL,phone VARCHAR(255)  NOT NULL,when_changed DATETIME NOT NULL);
+ALTER TABLE `0gf1ba_subscriber_list` ADD `clear_phone` varchar(250) NULL;

@@ -1,0 +1,7 @@
+add field to custom post fields in wp-admin:
+
+field ID: "allow_international_phone_numbers"
+Label: "Allow International Phone Numbers"
+Type: "Checkbox"
+Choices: "yes : &nbsp;"
+Default values: (empty)

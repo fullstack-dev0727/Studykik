@@ -1,0 +1,541 @@
+@media (max-width: 980px) {
+.login_banner {
+	padding: 0 65px;
+}
+.nav > li {
+	padding: 0 10px;
+}
+#top h1 img {
+	left:400px;
+}
+.right_arrow {
+	right:200px !important;
+}
+.screening_heading p {
+    color: #959ca1;
+    font-size: 12px !important;
+    height: 70px !important;
+}
+td {
+    height: 67px !important;
+    padding: 12px 6px !important;
+}
+table, th, td {
+    width: 100% !important;
+}
+#your-profile .form-table th {
+    padding: 10px;
+    text-align: left;
+    vertical-align: top;
+    width: 150px !important;
+}
+.navbar-header.padtop {
+    margin: 0;
+    text-align: left;
+    width: 0;
+}
+.page-id-6053 .dashboard_banner {
+	width: 97%;
+}
+.page-id-6053 .nav > li {
+    padding: 0 9px;
+}
+.button-primary {
+    margin-right: 0 !important;
+}
+.top_right {
+    margin-top: 26px !important;
+}
+.contact {
+	width: 83% !important;
+}
+.column {
+    width: 163px !important;
+}
+.page-id-6044 #top h1 img {
+	left:400px;
+}
+.page-id-6044 .lll1 {
+	font-size: 20px;
+}
+.page-id-6044 .lll2 {
+	font-size: 20px;
+}
+}
+@media (max-width: 800px) {
+.nav > li {
+    padding: 0 6px;
+}
+#top h1 img {
+    left: 305px;
+}
+.nav li a.midsection {
+    margin-right: 170px;
+}
+.right_arrow {
+    right: 110px !important;
+}
+.screening_heading p {
+    font-size: 12px !important;
+    height: 115px !important;
+}
+.login_banner {
+    padding: 0;
+}
+.navbar-header.padtop {
+    margin: 0;
+    text-align: left;
+    width: 0;
+}
+.page-id-6053 #your-profile label {
+    width: 150px;
+}
+.page-id-6053 .dashboard_banner {
+	width: 96%;
+}
+.page-id-6053 .nav > li {
+    padding: 0 3px;
+}
+.page-id-6053 #top h1 img {
+    left: 286px;
+}
+.page-id-6053 #pass-strength-result {
+    float: right !important;
+    margin: 12px 0 5px 1px;
+}
+.page-id-6053 .button-primary {
+	margin-right: 6px !important;	
+}
+.page-id-6053 .row.login_form img {
+    margin-left: 20px;
+}
+.column {
+    width: 133px !important;
+}
+.contact {
+    width: 79% !important;
+}
+.contact p {
+    font-size: 13px !important;
+}
+.column {
+    width: 128px !important;
+}
+.sortable-item strong {
+    font-size: 12px !important;
+}
+.sortable-item span {
+    font-size: 10px !important;
+}
+.clinical_trial h2 {
+    font-size: 20px !important;
+}
+.clinical_trial h2 > a.back_button {
+    float: left;
+    width: 100%;
+}
+.page-id-6044 #top h1 img {
+    left: 310px;
+}
+.page-id-6044 .lll1 {
+	padding: 10px 18px;
+}
+.page-id-6044 .lll2 {
+	padding: 10px 30px;
+}
+.column.left .table-bordered { display:block !important;}
+.aaaaaaaaaaa { display:none !important;}
+}
+@media (max-width: 768px) {
+#top h1 img {
+    left: 296px;
+}
+.nav li a {
+	margin-right:6px;
+}
+.navbar-header.padtop {
+    margin: 0;
+    text-align: left;
+    width: 0;
+}
+.top_right {
+    margin-top: 24px !important;
+}
+.page-id-6053 #pass-strength-result {
+    float: right !important;
+    margin: 12px 0 5px 1px;
+}
+.page-id-6053 .button-primary {
+	margin-right: 6px !important;	
+}
+.page-id-6053 .row.login_form img {
+    margin-left: 20px;
+}
+.page-id-6053 .dashboard_banner {
+	width: 96%;
+}
+.page-id-6053 .nav > li {
+    padding: 0 3px;
+}
+.page-id-6053 #top h1 img {
+    left: 286px;
+}
+.column {
+    width: 128px !important;
+}
+.sortable-item strong {
+    font-size: 12px !important;
+}
+.sortable-item span {
+    font-size: 10px !important;
+}
+.clinical_trial h2 {
+    font-size: 20px !important;
+}
+}
+@media (max-width: 767px) {
+.nav > li {
+	height:50px;
+	padding:0 30px;
+}
+.row.login_form img{
+	display:none;
+}
+.user_name {
+	width:100%;
+}
+p.submit {
+    float: left;
+    margin: 10px 0 0;
+    text-align: center;
+    width: 100%;
+}
+.sign_in {
+	float:none;
+	text-align:center;
+}
+.tml-action-links {
+	text-align:center;
+}
+#top {
+	margin-bottom:0;
+}
+.dashboard_banner {
+	padding:0;
+}
+#top h1 {
+    margin: 0;
+}
+#top h1 img {
+    display: none;
+}
+.screening_heading p {
+    font-size: 12px !important;
+    height: 48px !important;
+}
+.right_arrow {
+	display:none;
+}
+.nav > li br {
+    display: none;
+}
+.nav li a.midsection {
+    margin-right: 0;
+}
+.nav > li {
+    float: left;
+    height: 40px;
+    padding: 0 30px;
+	border-right: medium none;
+    width: 100%;
+}
+.navbar-nav > li > a {
+    padding: 0 !important;
+	margin:0 !important;
+}
+.navbar-nav {
+    margin: 18px 0 0;
+}
+.column {
+    width: 100% !important;
+}
+.contact {
+    margin: 0 !important;
+    width: 96% !important;
+}
+.page-id-6059 strong {
+    font-size: 12px !important;
+}
+.sortable-item strong {
+    font-size: 12px !important;
+}
+.sortable-item span {
+    font-size: 10px !important;
+}
+.white_content {
+    display: none;
+    left: 5% !important;
+    top: 4% !important;
+    width: 90% !important;
+}
+.white_content textarea{width:100% !important;}
+.sortable-item span {
+    font-size: 13px !important;
+}.sortable-item strong {
+    font-size: 14px !important;
+}
+
+}
+@media (max-width: 480px) {
+.right_arrow {
+	display:none;
+}
+.clinical_trial h2 > a.back_button {
+    width: 100%;
+}
+.contact {
+    margin: 0 !important;
+    width: 94% !important;
+}
+.page-id-6059 .clinical_trial h2 {
+    float: left;
+    font-size: 17px !important;
+    width: 100% !important;
+}
+.clinical_trial h2 > a.add_button, .add_button {
+    margin-right: 140px !important;
+    margin-top: 10px !important;
+}
+.sortable-list.ui-sortable {
+    margin: 0 !important;
+    padding: 0 !important;
+	min-height: 30px !important;
+}
+#top h1 a {
+    display: none;
+}
+.studykik_reward h1 {
+    font-size: 28px !important;
+}
+table, th, td {
+    width: 100% !important;
+	color: #000 !important;
+}
+td {
+    height: auto !important;
+    padding: 0 !important;
+}
+#your-profile .form-table th {
+    width: auto !important;
+}
+.page-id-6680 table, th, td {
+    color: white;
+    height: 60px !important;
+}	
+.table-bordered tr{ background:none !important;}
+}
+@media (max-width: 380px) {
+.login_banner {
+    padding: 0 38px;
+}
+footer ul li {
+    font-size: 13px;
+    margin: 0 4px 0 0;
+    padding: 0 8px 0 0;
+}
+#top h1 a {
+	position:fixed;
+}
+.page-id-6053 #your-profile label {
+	 width: 88px;
+}
+.page-id-6053 .login_banner {
+	padding:0;
+}
+.inner-form p {
+    color: #959ca1;
+    font: 16px Arial,Helvetica,sans-serif !important;
+}
+.contact {
+    width: 92% !important;
+}
+.clinical_trial h2 > a.add_button, .add_button {
+    margin-right: 70px !important;
+    margin-top: 10px !important;
+}
+.sortable-list.ui-sortable {
+    margin: 0 !important;
+    padding: 0 !important;
+	min-height: 30px !important;
+}
+.clinical_trial h2 > a.back_button {
+    float: left;
+    width: 100% !important;
+}
+.clinical_trial h2 {
+    font-size: 19px !important;
+}
+.studykik_reward h1 {
+    font-size: 28px !important;
+}
+#password input {
+    width: 72% !important;
+}
+#pass-strength-result{display:none;}
+.page-id-6680 table, th, td {
+    color: white;
+    height: 60px !important;
+}
+}
+@media (max-width: 360px) {
+.page-id-6053 #your-profile label {
+    width: 88px;
+}
+.page-id-6053 .row.login_form {
+    margin-left: 0;
+    margin-right: 0 !important;
+    width: 100%;
+}
+.page-id-6053 .login {
+    padding: 0;
+}
+.page-id-6053 .dashboard_banner {
+    width: 92%;
+	padding:0;
+}
+.inner-form p {
+    color: #959ca1;
+    font: 16px Arial,Helvetica,sans-serif !important;
+}
+.current_heading h4 {
+    font-size: 26px !important;
+}
+.clinical_trial h2 > a.back_button {
+    float: left;
+    font-size: 18px;
+    width: 100% !important;
+}
+.page-id-6059 .clinical_trial h2 {
+    float: left;
+    font-size: 20px !important;
+    width: 100% !important;
+}
+.clinical_trial h2 > a.add_button, .add_button {
+    margin-right: 70px !important;
+    margin-top: 10px !important;
+}
+.sortable-list.ui-sortable {
+    margin: 0 !important;
+    padding: 0 !important;
+	min-height: 30px !important;
+}
+.studykik_reward h1 {
+    font-size: 28px !important;
+}
+.page-id-6680 table, th, td {
+    color: white;
+    height: 60px !important;
+}
+.page-id-6044 .lll1 {
+    padding: 10px;
+}
+.page-id-6044 .lll2 {
+    padding: 10px 24px;
+}
+
+}
+@media (max-width: 320px) {
+footer ul li {
+    font-size: 12px !important;
+    margin: 0 6px 0 0 !important;
+    padding: 0 6px 0 0 !important;
+}
+.row.login_form {
+    margin: 0;
+}
+.login_banner {
+    padding: 0 4px;
+}
+.top_right {
+    margin-top: 26px !important;
+}
+.studykik_reward h1 {
+    font-size: 26px !important;
+}
+.platinum_list h3 {
+    font-size: 20px !important;
+}
+.screening_heading p {
+    font-size: 11px !important;
+    height: 55px !important;
+}
+#top h1 {
+    height: 0;
+    margin: 0 !important;
+}
+#top h1 a {
+	position:fixed;
+}
+.login {
+    padding: 0 !important;
+}
+
+#your-profile label {
+    font-size: 13px !important;
+    padding: 0 !important;
+	margin: 0 !important;
+}
+
+.page-id-6053 .login_banner {
+	padding:0;
+}
+.page-id-6053 .nav > li {
+	border-right: medium none;
+}
+.page-id-6044 .nav li a.midsection {
+    margin-right: 0 !important;
+}
+.inner-form p {
+    color: #959ca1;
+    font: 16px Arial,Helvetica,sans-serif !important;
+}
+.current_heading h4 {
+    font-size: 26px !important;
+}
+.contact {
+    width: 91% !important;
+}
+.page-id-6059 .clinical_trial h2 {
+    float: left;
+    font-size: 15px !important;
+    width: 100% !important;
+}
+.clinical_trial h2 > a.add_button, .add_button {
+    margin-right: 70px !important;
+    margin-top: 10px !important;
+}
+.sortable-list.ui-sortable {
+    margin: 0 !important;
+    padding: 0 !important;
+	min-height: 30px !important;
+}
+.page-id-6680 table, th, td {
+    color: white;
+    height: 60px !important;
+}
+.page-id-6044 .lll1 {
+    font-size: 16px;
+}
+.page-id-6044 .lll2 {
+    font-size: 16px;
+}
+.page-id-6053 #password input {
+    width: 98% !important;
+}
+.page-id-6053 #pass-strength-result {
+	width: 153px;
+}
+.page-id-6061.project_manager {
+    margin-top: 0px;
+}
+}

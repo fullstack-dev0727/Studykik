@@ -1,0 +1,44 @@
+.contact p {
+    font-size: 13px;
+ 
+}
+@media (max-width: 980px) {
+    .table-bordered tr th {
+        margin: 0;
+        padding: 0 !important;
+        width: 12%;
+    }
+    th, td {
+        width: 12% !important;
+    }
+    .column {
+        margin-left: 0;
+        width: 140px !important;
+    }
+}
+@media (max-width: 800px) {
+     th, td {
+        width: 12% !important;
+    }
+    .column {
+        width: 140px !important;
+    }
+}
+
+@media (max-width: 480px) {
+     th, td {
+        width: 14% !important;
+    }
+    .column {
+        width: 100% !important;
+    }
+}
+
+@media (max-width: 320px) {
+     th, td {
+        width: 14% !important;
+    }
+    .column {
+        width: 100% !important;
+    }
+}

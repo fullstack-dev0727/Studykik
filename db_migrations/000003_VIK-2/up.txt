@@ -1,0 +1,5 @@
+Add a page in back end
+
+Page Title - Custom Invoice
+Permalink: http://studykik.com/custominvoice/
+Template - Studykik Custom Invoice Page

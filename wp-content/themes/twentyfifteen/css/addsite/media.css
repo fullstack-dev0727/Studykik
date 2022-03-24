@@ -1,0 +1,147 @@
+
+@media screen and (max-width:980px) {
+	#top h1 a {
+    display: none;
+}
+#top h1 img {
+    left: 425px;
+    top: -14px;
+    width: 10%;
+}
+.nav > li {
+    height: 63px;
+    padding: 0 28px;
+}
+.nav li a {
+	 font-size: 13px;
+	 padding: 0;
+	 margin-right: 0;
+}
+.nav li a.midsection {
+   margin-right: 98px;
+}
+.team_member {
+	width: 60%;
+}
+.reward_kik {
+    font-size: 18px;
+}
+.total_poitn {
+    font-size: 20px;
+}
+.navbar-header.padtop {
+    text-align: left;
+    width: 0;
+}
+.left_girl {
+    left: 13px;
+    position: absolute;
+    top: 24px;
+}
+
+}
+@media screen and (max-width:800px) {
+#top h1 img {
+    left: 315px;
+    top: -3px;
+    width: 10%;
+}
+.nav > li {
+    height: 63px;
+    padding: 0 12px;
+}
+.nav li a {
+	 font-size: 13px;
+	 padding: 0;
+	 margin-right: 0;
+}
+.nav li a.midsection {
+   margin-right: 98px;
+}
+.scroll-area {
+	margin-bottom:10px;
+}
+.navbar-header.padtop {
+    text-align: left;
+    width: 0;
+}
+.kik_left {
+    font-size: 18px;
+}
+.left_girl {
+    left: 13px;
+    top: 98px;
+    width: 20% !important;
+}
+@media screen and (max-width:768px) {
+.left_girl {
+    left: 18px;
+    top: 118px;
+    width: 18% !important;
+}
+}
+@media screen and (max-width:767px) {
+.dashboard_banner {
+    padding: 0;
+}
+#top {
+    display: none;
+}
+.nav > li {
+    height: 40px;
+	text-align: center;
+}
+.nav li a {
+    font-size: 17px;
+	float:none;
+}
+.nav.navbar-nav > li br {
+    display: none;
+}
+.nav li a.midsection {
+    margin-right: 0;
+}
+
+}
+@media screen and (max-width:640px) {
+.left_girl {
+	display:none;
+}
+.navbar-header.padtop {
+    float: left;
+}
+}
+@media screen and (max-width:480px) {
+h1 {
+    margin: 0;
+}
+#top h1 img {
+    display: none;
+}
+.navbar-header.padtop {
+    float: left;
+}
+.form_section {
+    padding: 0 15px;
+    width: 99%;
+}
+#site_form {
+	width:100%;
+}
+}
+
+@media screen and (max-width:380px) {
+#site_form {
+	font: 16px "Helvetica Neue",Helvetica,sans-serif;
+}
+}
+@media screen and (max-width:360px) {
+
+}
+@media screen and (max-width:320px) {
+
+}
+
+
+
+

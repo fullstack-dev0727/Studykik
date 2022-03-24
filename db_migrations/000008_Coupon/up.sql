@@ -1,0 +1,8 @@
+CREATE TABLE 0gf1ba_coupons (
+id INT  NOT NULL AUTO_INCREMENT,
+user_id INT(255) NOT NULL,
+post_id INT(255) NOT NULL,
+date DATETIME NOT NULL,
+action VARCHAR(255) NOT NULL,
+coupon_code VARCHAR(255) NOT NULL,
+KEY (id), UNIQUE KEY (id));

@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /api_v1/
+RewriteRule    ^GetPatientInfo/?$    get_patient_info.php    [L]
+RewriteRule    ^UpdatePatientStatus/?$    update_patient_status.php    [L]
+RewriteRule    ^UpdatePatientPhone/?$    update_patient_phone.php    [L]
+RewriteRule    ^ClearGarbage/?$    clear_garbage.php    [L]

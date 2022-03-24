@@ -1,0 +1,1522 @@
+<style type="text/css">
+											<!--
+											table
+											{
+												width:  100%;
+												margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;
+											}
+
+											th{padding:8px 0px;}
+											td
+											{
+											padding:6px 0px;
+											}
+											tbody{
+											margin:0px 20px 0px 20px;
+											padding: 0px 20px 0px 20px;
+
+											}
+
+											h1{ font-size:21px; margin:-15px 0px 10px 0px; padding:0px 0px 0px 0px;}
+											tbody tr{ font-size:14px;}
+											body{margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;}
+
+											-->
+											</style>
+				  <page backtop='2mm' backbottom='0mm' backleft='5mm' backright='5mm'>
+				 <table cellpadding='0' cellspacing='0'>
+				<col style='width: 18%'>
+				<col style='width: 57%'>
+				<col style='width: 5%'>
+				<col style='width: 20%'>
+
+				      <tr>
+					<th style='text-align:left; margin-left:20px;' colspan='2'><img style='width:295px; height:52px;' src='http://studykik.com/wp-content/themes/twentyfifteen/images/background_top.png'/><p style='font-size:14px; color:#959ca1;font-weight:normal; margin:2px 0px 0px 0px; line-height:18px;'><b>StudyKIK</b><br />1675 Scenic Ave #150<br />Costa Mesa, CA 92626</p></th>
+					<th colspan='2' style='text-align:right;margin:0px 20px 0px 0px;font-size:16px; color:#959ca1;font-weight:normal; line-height:20px; font-weight:300px;'>
+					<h1>INVOICE RECEIPT</h1>
+					Invoice Number: 7268167<br />
+                    Invoice Date: 10/20/2015<br />
+                    Term | Due on Receipt</th>
+				    </tr>
+				<tbody>
+				<tr>
+					<th style='text-align:left' colspan='4'><img style='width:100%;' src='http://studykik.com/wp-content/themes/twentyfifteen/images/top_full.png'/></th></tr>
+				    <tr style='text-align:center; font-size:18px;color:#000;'>
+					<th align='left' style='border-bottom:1px solid #000;'>SERVICES:</th>
+					<th align='left'style='border-bottom:1px solid #000;'>DESCRIPTION:</th>
+					<th style='border-bottom:1px solid #000;'></th>
+					<th  align='right' style='border-bottom:1px solid #000;'>AMOUNT:</th>
+				    </tr>
+
+				<tr align='center'>
+				    <td align='left'>Listing</td>
+				    <td align='left'><b>Site Name:</b> Mozilla Inc</td>
+				    <td align='center'> </td>
+				    <td align='right'>$3,059.00 </td>
+				</tr><tr align='center'>
+				    <td align='left'></td>
+				    <td align='left'><b>Study Type:</b> Mo Test</td>
+                                    <td align='center'> </td>
+				    <td align='center'></td>
+				</tr>
+				<tr align='left'>
+        <td align='left'> </td>
+        <td align='left'><b>Study Level:</b> Diamond $3059</td>
+        <td align='center'> </td>
+        <td align='center'> </td>
+    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Protocol Number:</b> Test</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Phone:</b> 1111111</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Recruitment Email 1:</b> adasf@gmail.com</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 2:</b> mo.tan@studykik.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 3:</b> adasf@gmail.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Study Address:</b> Motron Drive</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Start Date:</b> 10/20/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>End Date:</b> 11/18/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr><tr align='left'>
+				    <td bordercolor='#000' align='left'>&nbsp; </td>
+				    <td bordercolor='#000' align='left'> &nbsp; </td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+
+					<tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+
+				<tr class='sub_total' align='left'>
+				<td align='center'  style='border-top:1px solid #000;'> </td>
+				<td align='left'  style='border-top:1px solid #000;'> </td>
+				<td align='right' colspan='2' style='border-top:1px solid #000;'>SUB TOTAL:&nbsp; $3,059.00</td>
+				</tr>
+				<tr class='total' align='left'>
+				<td align='center'> </td>
+				<td align='left'> </td>
+				<td align='right' colspan='2'><b>TOTAL:&nbsp; $3,059.00</b></td>
+				</tr>
+				</tbody>
+				<tr><th colspan='4' style='font-size: 14px;'><img style='width:100%;height:470px;' src='http://studykik.com/wp-content/themes/twentyfifteen/images/bottum_background.png'/></th></tr>
+				</table></page><style type="text/css">
+											<!--
+											table
+											{
+												width:  100%;
+												margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;
+											}
+
+											th{padding:8px 0px;}
+											td
+											{
+											padding:6px 0px;
+											}
+											tbody{
+											margin:0px 20px 0px 20px;
+											padding: 0px 20px 0px 20px;
+
+											}
+
+											h1{ font-size:21px; margin:-15px 0px 10px 0px; padding:0px 0px 0px 0px;}
+											tbody tr{ font-size:14px;}
+											body{margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;}
+
+											-->
+											</style>
+				  <page backtop='2mm' backbottom='0mm' backleft='5mm' backright='5mm'>
+				 <table cellpadding='0' cellspacing='0'>
+				<col style='width: 18%'>
+				<col style='width: 57%'>
+				<col style='width: 5%'>
+				<col style='width: 20%'>
+
+				      <tr>
+					<th style='text-align:left; margin-left:20px;' colspan='2'><img style='width:295px; height:52px;' src='http://studykik.com/wp-content/themes/twentyfifteen/images/background_top.png'/><p style='font-size:14px; color:#959ca1;font-weight:normal; margin:2px 0px 0px 0px; line-height:18px;'><b>StudyKIK</b><br />1675 Scenic Ave #150<br />Costa Mesa, CA 92626</p></th>
+					<th colspan='2' style='text-align:right;margin:0px 20px 0px 0px;font-size:16px; color:#959ca1;font-weight:normal; line-height:20px; font-weight:300px;'>
+					<h1>INVOICE RECEIPT</h1>
+					Invoice Number: 7268168<br />
+                    Invoice Date: 10/22/2015<br />
+                    Term | Due on Receipt</th>
+				    </tr>
+				<tbody>
+				<tr>
+					<th style='text-align:left' colspan='4'><img style='width:100%;' src='http://studykik.com/wp-content/themes/twentyfifteen/images/top_full.png'/></th></tr>
+				    <tr style='text-align:center; font-size:18px;color:#000;'>
+					<th align='left' style='border-bottom:1px solid #000;'>SERVICES:</th>
+					<th align='left'style='border-bottom:1px solid #000;'>DESCRIPTION:</th>
+					<th style='border-bottom:1px solid #000;'></th>
+					<th  align='right' style='border-bottom:1px solid #000;'>AMOUNT:</th>
+				    </tr>
+
+				<tr align='center'>
+				    <td align='left'>Listing</td>
+				    <td align='left'><b>Site Name:</b> Mozilla Inc</td>
+				    <td align='center'> </td>
+				    <td align='right'>$3,059.00 </td>
+				</tr><tr align='center'>
+				    <td align='left'></td>
+				    <td align='left'><b>Study Type:</b> Mo Test</td>
+                                    <td align='center'> </td>
+				    <td align='center'></td>
+				</tr>
+				<tr align='left'>
+        <td align='left'> </td>
+        <td align='left'><b>Study Level:</b> Diamond $3059</td>
+        <td align='center'> </td>
+        <td align='center'> </td>
+    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Protocol Number:</b> Test</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Phone:</b> 1111111</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Recruitment Email 1:</b> adasf@gmail.com</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 2:</b> mo.tan@studykik.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 3:</b> adasf@gmail.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Study Address:</b> Motron Drive</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Start Date:</b> 10/22/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>End Date:</b> 11/20/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr><tr align='left'>
+				    <td bordercolor='#000' align='left'>&nbsp; </td>
+				    <td bordercolor='#000' align='left'> &nbsp; </td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+
+					<tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+
+				<tr class='sub_total' align='left'>
+				<td align='center'  style='border-top:1px solid #000;'> </td>
+				<td align='left'  style='border-top:1px solid #000;'> </td>
+				<td align='right' colspan='2' style='border-top:1px solid #000;'>SUB TOTAL:&nbsp; $3,059.00</td>
+				</tr>
+				<tr class='total' align='left'>
+				<td align='center'> </td>
+				<td align='left'> </td>
+				<td align='right' colspan='2'><b>TOTAL:&nbsp; $3,059.00</b></td>
+				</tr>
+				</tbody>
+				<tr><th colspan='4' style='font-size: 14px;'><img style='width:100%;height:470px;' src='http://studykik.com/wp-content/themes/twentyfifteen/images/bottum_background.png'/></th></tr>
+				</table></page><style type="text/css">
+											<!--
+											table
+											{
+												width:  100%;
+												margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;
+											}
+
+											th{padding:8px 0px;}
+											td
+											{
+											padding:6px 0px;
+											}
+											tbody{
+											margin:0px 20px 0px 20px;
+											padding: 0px 20px 0px 20px;
+
+											}
+
+											h1{ font-size:21px; margin:-15px 0px 10px 0px; padding:0px 0px 0px 0px;}
+											tbody tr{ font-size:14px;}
+											body{margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;}
+
+											-->
+											</style>
+				  <page backtop='2mm' backbottom='0mm' backleft='5mm' backright='5mm'>
+				 <table cellpadding='0' cellspacing='0'>
+				<col style='width: 18%'>
+				<col style='width: 57%'>
+				<col style='width: 5%'>
+				<col style='width: 20%'>
+
+				      <tr>
+					<th style='text-align:left; margin-left:20px;' colspan='2'><img style='width:295px; height:52px;' src='http://studykik.com/wp-content/themes/twentyfifteen/images/background_top.png'/><p style='font-size:14px; color:#959ca1;font-weight:normal; margin:2px 0px 0px 0px; line-height:18px;'><b>StudyKIK</b><br />1675 Scenic Ave #150<br />Costa Mesa, CA 92626</p></th>
+					<th colspan='2' style='text-align:right;margin:0px 20px 0px 0px;font-size:16px; color:#959ca1;font-weight:normal; line-height:20px; font-weight:300px;'>
+					<h1>INVOICE RECEIPT</h1>
+					Invoice Number: 7268168<br />
+                    Invoice Date: 10/27/2015<br />
+                    Term | Due on Receipt</th>
+				    </tr>
+				<tbody>
+				<tr>
+					<th style='text-align:left' colspan='4'><img style='width:100%;' src='http://studykik.com/wp-content/themes/twentyfifteen/images/top_full.png'/></th></tr>
+				    <tr style='text-align:center; font-size:18px;color:#000;'>
+					<th align='left' style='border-bottom:1px solid #000;'>SERVICES:</th>
+					<th align='left'style='border-bottom:1px solid #000;'>DESCRIPTION:</th>
+					<th style='border-bottom:1px solid #000;'></th>
+					<th  align='right' style='border-bottom:1px solid #000;'>AMOUNT:</th>
+				    </tr>
+
+				<tr align='center'>
+				    <td align='left'>Listing</td>
+				    <td align='left'><b>Site Name:</b> Mozilla Inc</td>
+				    <td align='center'> </td>
+				    <td align='right'>$3,059.00 </td>
+				</tr><tr align='center'>
+				    <td align='left'></td>
+				    <td align='left'><b>Study Type:</b> Mo Test</td>
+                                    <td align='center'> </td>
+				    <td align='center'></td>
+				</tr>
+				<tr align='left'>
+        <td align='left'> </td>
+        <td align='left'><b>Study Level:</b> Diamond $3059</td>
+        <td align='center'> </td>
+        <td align='center'> </td>
+    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Protocol Number:</b> Test</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Phone:</b> 1111111</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Recruitment Email 1:</b> adasf@gmail.com</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 2:</b> mo.tan@studykik.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 3:</b> adasf@gmail.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Study Address:</b> Motron Drive</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Start Date:</b> 10/27/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>End Date:</b> 11/25/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr><tr align='left'>
+				    <td bordercolor='#000' align='left'>&nbsp; </td>
+				    <td bordercolor='#000' align='left'> &nbsp; </td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+
+					<tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+
+				<tr class='sub_total' align='left'>
+				<td align='center'  style='border-top:1px solid #000;'> </td>
+				<td align='left'  style='border-top:1px solid #000;'> </td>
+				<td align='right' colspan='2' style='border-top:1px solid #000;'>SUB TOTAL:&nbsp; $3,059.00</td>
+				</tr>
+				<tr class='total' align='left'>
+				<td align='center'> </td>
+				<td align='left'> </td>
+				<td align='right' colspan='2'><b>TOTAL:&nbsp; $3,059.00</b></td>
+				</tr>
+				</tbody>
+				<tr><th colspan='4' style='font-size: 14px;'><img style='width:100%;height:470px;' src='http://studykik.com/wp-content/themes/twentyfifteen/images/bottum_background.png'/></th></tr>
+				</table></page><style type="text/css">
+											<!--
+											table
+											{
+												width:  100%;
+												margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;
+											}
+
+											th{padding:8px 0px;}
+											td
+											{
+											padding:6px 0px;
+											}
+											tbody{
+											margin:0px 20px 0px 20px;
+											padding: 0px 20px 0px 20px;
+
+											}
+
+											h1{ font-size:21px; margin:-15px 0px 10px 0px; padding:0px 0px 0px 0px;}
+											tbody tr{ font-size:14px;}
+											body{margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;}
+
+											-->
+											</style>
+				  <page backtop='2mm' backbottom='0mm' backleft='5mm' backright='5mm'>
+				 <table cellpadding='0' cellspacing='0'>
+				<col style='width: 18%'>
+				<col style='width: 57%'>
+				<col style='width: 5%'>
+				<col style='width: 20%'>
+
+				      <tr>
+					<th style='text-align:left; margin-left:20px;' colspan='2'><img style='width:295px; height:52px;' src='http://studykik.com/wp-content/themes/twentyfifteen/images/background_top.png'/><p style='font-size:14px; color:#959ca1;font-weight:normal; margin:2px 0px 0px 0px; line-height:18px;'><b>StudyKIK</b><br />1675 Scenic Ave #150<br />Costa Mesa, CA 92626</p></th>
+					<th colspan='2' style='text-align:right;margin:0px 20px 0px 0px;font-size:16px; color:#959ca1;font-weight:normal; line-height:20px; font-weight:300px;'>
+					<h1>INVOICE RECEIPT</h1>
+					Invoice Number: 7268169<br />
+                    Invoice Date: 10/09/2015<br />
+                    Term | Due on Receipt</th>
+				    </tr>
+				<tbody>
+				<tr>
+					<th style='text-align:left' colspan='4'><img style='width:100%;' src='http://studykik.com/wp-content/themes/twentyfifteen/images/top_full.png'/></th></tr>
+				    <tr style='text-align:center; font-size:18px;color:#000;'>
+					<th align='left' style='border-bottom:1px solid #000;'>SERVICES:</th>
+					<th align='left'style='border-bottom:1px solid #000;'>DESCRIPTION:</th>
+					<th style='border-bottom:1px solid #000;'></th>
+					<th  align='right' style='border-bottom:1px solid #000;'>AMOUNT:</th>
+				    </tr>
+
+				<tr align='center'>
+				    <td align='left'>Listing</td>
+				    <td align='left'><b>Site Name:</b> Mozilla Inc</td>
+				    <td align='center'> </td>
+				    <td align='right'>$1,559.00 </td>
+				</tr><tr align='center'>
+				    <td align='left'></td>
+				    <td align='left'><b>Study Type:</b> Mo Test</td>
+                                    <td align='center'> </td>
+				    <td align='center'></td>
+				</tr>
+				<tr align='left'>
+        <td align='left'> </td>
+        <td align='left'><b>Study Level:</b> Platinum $1559</td>
+        <td align='center'> </td>
+        <td align='center'> </td>
+    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Protocol Number:</b> Test</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Phone:</b> 1111111</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Recruitment Email 1:</b> adasf@gmail.com</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 2:</b> mo.tan@studykik.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 3:</b> adasf@gmail.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Study Address:</b> Motron Drive</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Start Date:</b> 10/09/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>End Date:</b> 11/07/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr><tr align='left'>
+				    <td bordercolor='#000' align='left'>&nbsp; </td>
+				    <td bordercolor='#000' align='left'> &nbsp; </td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+
+					<tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+
+				<tr class='sub_total' align='left'>
+				<td align='center'  style='border-top:1px solid #000;'> </td>
+				<td align='left'  style='border-top:1px solid #000;'> </td>
+				<td align='right' colspan='2' style='border-top:1px solid #000;'>SUB TOTAL:&nbsp; $1,559.00</td>
+				</tr>
+				<tr class='total' align='left'>
+				<td align='center'> </td>
+				<td align='left'> </td>
+				<td align='right' colspan='2'><b>TOTAL:&nbsp; $1,559.00</b></td>
+				</tr>
+				</tbody>
+				<tr><th colspan='4' style='font-size: 14px;'><img style='width:100%;height:470px;' src='http://studykik.com/wp-content/themes/twentyfifteen/images/bottum_background.png'/></th></tr>
+				</table></page><style type="text/css">
+											<!--
+											table
+											{
+												width:  100%;
+												margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;
+											}
+
+											th{padding:8px 0px;}
+											td
+											{
+											padding:6px 0px;
+											}
+											tbody{
+											margin:0px 20px 0px 20px;
+											padding: 0px 20px 0px 20px;
+
+											}
+
+											h1{ font-size:21px; margin:-15px 0px 10px 0px; padding:0px 0px 0px 0px;}
+											tbody tr{ font-size:14px;}
+											body{margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;}
+
+											-->
+											</style>
+				  <page backtop='2mm' backbottom='0mm' backleft='5mm' backright='5mm'>
+				 <table cellpadding='0' cellspacing='0'>
+				<col style='width: 18%'>
+				<col style='width: 57%'>
+				<col style='width: 5%'>
+				<col style='width: 20%'>
+
+				      <tr>
+					<th style='text-align:left; margin-left:20px;' colspan='2'><img style='width:295px; height:52px;' src='http://teststudy.studykik.com/wp-content/themes/twentyfifteen/images/background_top.png'/><p style='font-size:14px; color:#959ca1;font-weight:normal; margin:2px 0px 0px 0px; line-height:18px;'><b>StudyKIK</b><br />1675 Scenic Ave #150<br />Costa Mesa, CA 92626</p></th>
+					<th colspan='2' style='text-align:right;margin:0px 20px 0px 0px;font-size:16px; color:#959ca1;font-weight:normal; line-height:20px; font-weight:300px;'>
+					<h1>INVOICE RECEIPT</h1>
+					Invoice Number: 7268262<br />
+                    Invoice Date: 10/19/2015<br />
+                    Term | Due on Receipt</th>
+				    </tr>
+				<tbody>
+				<tr>
+					<th style='text-align:left' colspan='4'><img style='width:100%;' src='http://teststudy.studykik.com/wp-content/themes/twentyfifteen/images/top_full.png'/></th></tr>
+				    <tr style='text-align:center; font-size:18px;color:#000;'>
+					<th align='left' style='border-bottom:1px solid #000;'>SERVICES:</th>
+					<th align='left'style='border-bottom:1px solid #000;'>DESCRIPTION:</th>
+					<th style='border-bottom:1px solid #000;'></th>
+					<th  align='right' style='border-bottom:1px solid #000;'>AMOUNT:</th>
+				    </tr>
+
+				<tr align='center'>
+				    <td align='left'>Listing</td>
+				    <td align='left'><b>Site Name:</b> WCCT Global</td>
+				    <td align='center'> </td>
+				    <td align='right'>$1,559.00 </td>
+				</tr><tr align='center'>
+				    <td align='left'></td>
+				    <td align='left'><b>Study Type:</b> Alzheimer's Disease Study</td>
+                                    <td align='center'> </td>
+				    <td align='center'></td>
+				</tr>
+				<tr align='left'>
+        <td align='left'> </td>
+        <td align='left'><b>Study Level:</b> Platinum $1559</td>
+        <td align='center'> </td>
+        <td align='center'> </td>
+    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Protocol Number:</b> Abbvie M13-730</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Phone:</b> 1-877-777-2359</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 1:</b> specialpops@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 2:</b> Yessica.Sanchez@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 3:</b> Brianna.Rosas@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 4:</b> sammy.armado@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 5:</b> Anh.nguyen@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Study Address:</b> 3545 Howard Way, Costa Mesa CA 92626</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Start Date:</b> 10/19/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>End Date:</b> 11/17/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr><tr align='left'>
+				    <td bordercolor='#000' align='left'>&nbsp; </td>
+				    <td bordercolor='#000' align='left'> &nbsp; </td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+					<tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+					<tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+					
+
+				<tr class='sub_total' align='left'>
+				<td align='center'  style='border-top:1px solid #000;'> </td>
+				<td align='left'  style='border-top:1px solid #000;'> </td>
+				<td align='right' colspan='2' style='border-top:1px solid #000;'>SUB TOTAL:&nbsp; $1,559.00</td>
+				</tr>
+				<tr class='total' align='left'>
+				<td align='center'> </td>
+				<td align='left'> </td>
+				<td align='right' colspan='2'><b>TOTAL:&nbsp; $1,559.00</b></td>
+				</tr>
+				</tbody>
+				<tr><th colspan='4' style='font-size: 14px;'><img style='width:100%;height:450px;' src='http://teststudy.studykik.com/wp-content/themes/twentyfifteen/images/bottum_background.png'/></th></tr>
+				</table></page><style type="text/css">
+											<!--
+											table
+											{
+												width:  100%;
+												margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;
+											}
+
+											th{padding:8px 0px;}
+											td
+											{
+											padding:6px 0px;
+											}
+											tbody{
+											margin:0px 20px 0px 20px;
+											padding: 0px 20px 0px 20px;
+
+											}
+
+											h1{ font-size:21px; margin:-15px 0px 10px 0px; padding:0px 0px 0px 0px;}
+											tbody tr{ font-size:14px;}
+											body{margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;}
+
+											-->
+											</style>
+				  <page backtop='2mm' backbottom='0mm' backleft='5mm' backright='5mm'>
+				 <table cellpadding='0' cellspacing='0'>
+				<col style='width: 18%'>
+				<col style='width: 57%'>
+				<col style='width: 5%'>
+				<col style='width: 20%'>
+
+				      <tr>
+					<th style='text-align:left; margin-left:20px;' colspan='2'><img style='width:295px; height:52px;' src='http://teststudy.studykik.com/wp-content/themes/twentyfifteen/images/background_top.png'/><p style='font-size:14px; color:#959ca1;font-weight:normal; margin:2px 0px 0px 0px; line-height:18px;'><b>StudyKIK</b><br />1675 Scenic Ave #150<br />Costa Mesa, CA 92626</p></th>
+					<th colspan='2' style='text-align:right;margin:0px 20px 0px 0px;font-size:16px; color:#959ca1;font-weight:normal; line-height:20px; font-weight:300px;'>
+					<h1>INVOICE RECEIPT</h1>
+					Invoice Number: 7268262<br />
+                    Invoice Date: 10/19/2015<br />
+                    Term | Due on Receipt</th>
+				    </tr>
+				<tbody>
+				<tr>
+					<th style='text-align:left' colspan='4'><img style='width:100%;' src='http://teststudy.studykik.com/wp-content/themes/twentyfifteen/images/top_full.png'/></th></tr>
+				    <tr style='text-align:center; font-size:18px;color:#000;'>
+					<th align='left' style='border-bottom:1px solid #000;'>SERVICES:</th>
+					<th align='left'style='border-bottom:1px solid #000;'>DESCRIPTION:</th>
+					<th style='border-bottom:1px solid #000;'></th>
+					<th  align='right' style='border-bottom:1px solid #000;'>AMOUNT:</th>
+				    </tr>
+
+				<tr align='center'>
+				    <td align='left'>Listing</td>
+				    <td align='left'><b>Site Name:</b> WCCT Global</td>
+				    <td align='center'> </td>
+				    <td align='right'>$559.00 </td>
+				</tr><tr align='center'>
+				    <td align='left'></td>
+				    <td align='left'><b>Study Type:</b> Asthma Study</td>
+                                    <td align='center'> </td>
+				    <td align='center'></td>
+				</tr>
+				<tr align='left'>
+        <td align='left'> </td>
+        <td align='left'><b>Study Level:</b> Gold $559</td>
+        <td align='center'> </td>
+        <td align='center'> </td>
+    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Protocol Number:</b> Sanofi EFC13579</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Phone:</b> (877) 777-2359</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 1:</b> Matt.miller@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 2:</b> Anh.nguyen@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 3:</b> sammy.armado@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 4:</b> specialpops@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 5:</b> cindy.jimenez@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Study Address:</b> 3545 Howard Way, Costa Mesa CA 92626</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Start Date:</b> 10/19/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>End Date:</b> 11/17/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr><tr align='left'>
+				    <td bordercolor='#000' align='left'>&nbsp; </td>
+				    <td bordercolor='#000' align='left'> &nbsp; </td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+					<tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+					<tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+					
+
+				<tr class='sub_total' align='left'>
+				<td align='center'  style='border-top:1px solid #000;'> </td>
+				<td align='left'  style='border-top:1px solid #000;'> </td>
+				<td align='right' colspan='2' style='border-top:1px solid #000;'>SUB TOTAL:&nbsp; $559.00</td>
+				</tr>
+				<tr class='total' align='left'>
+				<td align='center'> </td>
+				<td align='left'> </td>
+				<td align='right' colspan='2'><b>TOTAL:&nbsp; $559.00</b></td>
+				</tr>
+				</tbody>
+				<tr><th colspan='4' style='font-size: 14px;'><img style='width:100%;height:450px;' src='http://teststudy.studykik.com/wp-content/themes/twentyfifteen/images/bottum_background.png'/></th></tr>
+				</table></page><style type="text/css">
+											<!--
+											table
+											{
+												width:  100%;
+												margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;
+											}
+
+											th{padding:8px 0px;}
+											td
+											{
+											padding:6px 0px;
+											}
+											tbody{
+											margin:0px 20px 0px 20px;
+											padding: 0px 20px 0px 20px;
+
+											}
+
+											h1{ font-size:21px; margin:-15px 0px 10px 0px; padding:0px 0px 0px 0px;}
+											tbody tr{ font-size:14px;}
+											body{margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;}
+
+											-->
+											</style>
+				  <page backtop='2mm' backbottom='0mm' backleft='5mm' backright='5mm'>
+				 <table cellpadding='0' cellspacing='0'>
+				<col style='width: 18%'>
+				<col style='width: 57%'>
+				<col style='width: 5%'>
+				<col style='width: 20%'>
+
+				      <tr>
+					<th style='text-align:left; margin-left:20px;' colspan='2'><img style='width:295px; height:52px;' src='http://teststudy.studykik.com/wp-content/themes/twentyfifteen/images/background_top.png'/><p style='font-size:14px; color:#959ca1;font-weight:normal; margin:2px 0px 0px 0px; line-height:18px;'><b>StudyKIK</b><br />1675 Scenic Ave #150<br />Costa Mesa, CA 92626</p></th>
+					<th colspan='2' style='text-align:right;margin:0px 20px 0px 0px;font-size:16px; color:#959ca1;font-weight:normal; line-height:20px; font-weight:300px;'>
+					<h1>INVOICE RECEIPT</h1>
+					Invoice Number: 7268263<br />
+                    Invoice Date: 10/19/2015<br />
+                    Term | Due on Receipt</th>
+				    </tr>
+				<tbody>
+				<tr>
+					<th style='text-align:left' colspan='4'><img style='width:100%;' src='http://teststudy.studykik.com/wp-content/themes/twentyfifteen/images/top_full.png'/></th></tr>
+				    <tr style='text-align:center; font-size:18px;color:#000;'>
+					<th align='left' style='border-bottom:1px solid #000;'>SERVICES:</th>
+					<th align='left'style='border-bottom:1px solid #000;'>DESCRIPTION:</th>
+					<th style='border-bottom:1px solid #000;'></th>
+					<th  align='right' style='border-bottom:1px solid #000;'>AMOUNT:</th>
+				    </tr>
+
+				<tr align='center'>
+				    <td align='left'>Listing</td>
+				    <td align='left'><b>Site Name:</b> WCCT Global</td>
+				    <td align='center'> </td>
+				    <td align='right'>$559.00 </td>
+				</tr><tr align='center'>
+				    <td align='left'></td>
+				    <td align='left'><b>Study Type:</b> Asthma Study</td>
+                                    <td align='center'> </td>
+				    <td align='center'></td>
+				</tr>
+				<tr align='left'>
+        <td align='left'> </td>
+        <td align='left'><b>Study Level:</b> Gold $559</td>
+        <td align='center'> </td>
+        <td align='center'> </td>
+    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Phone:</b> (844) 778-9228</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 1:</b> anh.nguyen@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 2:</b> Cindy.Jimenez@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 3:</b> Sergio.Lagasca@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Study Address:</b> 3545 Howard Way, Costa Mesa, CA, United States</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Start Date:</b> 10/19/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>End Date:</b> 11/17/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr><tr align='left'>
+				    <td bordercolor='#000' align='left'>&nbsp; </td>
+				    <td bordercolor='#000' align='left'> &nbsp; </td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+					<tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+					<tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+					
+
+				<tr class='sub_total' align='left'>
+				<td align='center'  style='border-top:1px solid #000;'> </td>
+				<td align='left'  style='border-top:1px solid #000;'> </td>
+				<td align='right' colspan='2' style='border-top:1px solid #000;'>SUB TOTAL:&nbsp; $559.00</td>
+				</tr>
+				<tr class='total' align='left'>
+				<td align='center'> </td>
+				<td align='left'> </td>
+				<td align='right' colspan='2'><b>TOTAL:&nbsp; $559.00</b></td>
+				</tr>
+				</tbody>
+				<tr><th colspan='4' style='font-size: 14px;'><img style='width:100%;height:450px;' src='http://teststudy.studykik.com/wp-content/themes/twentyfifteen/images/bottum_background.png'/></th></tr>
+				</table></page><style type="text/css">
+											<!--
+											table
+											{
+												width:  100%;
+												margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;
+											}
+
+											th{padding:8px 0px;}
+											td
+											{
+											padding:6px 0px;
+											}
+											tbody{
+											margin:0px 20px 0px 20px;
+											padding: 0px 20px 0px 20px;
+
+											}
+
+											h1{ font-size:21px; margin:-15px 0px 10px 0px; padding:0px 0px 0px 0px;}
+											tbody tr{ font-size:14px;}
+											body{margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;}
+
+											-->
+											</style>
+				  <page backtop='2mm' backbottom='0mm' backleft='5mm' backright='5mm'>
+				 <table cellpadding='0' cellspacing='0'>
+				<col style='width: 18%'>
+				<col style='width: 57%'>
+				<col style='width: 5%'>
+				<col style='width: 20%'>
+
+				      <tr>
+					<th style='text-align:left; margin-left:20px;' colspan='2'><img style='width:295px; height:52px;' src='http://teststudy.studykik.com/wp-content/themes/twentyfifteen/images/background_top.png'/><p style='font-size:14px; color:#959ca1;font-weight:normal; margin:2px 0px 0px 0px; line-height:18px;'><b>StudyKIK</b><br />1675 Scenic Ave #150<br />Costa Mesa, CA 92626</p></th>
+					<th colspan='2' style='text-align:right;margin:0px 20px 0px 0px;font-size:16px; color:#959ca1;font-weight:normal; line-height:20px; font-weight:300px;'>
+					<h1>INVOICE RECEIPT</h1>
+					Invoice Number: 7268264<br />
+                    Invoice Date: 10/19/2015<br />
+                    Term | Due on Receipt</th>
+				    </tr>
+				<tbody>
+				<tr>
+					<th style='text-align:left' colspan='4'><img style='width:100%;' src='http://teststudy.studykik.com/wp-content/themes/twentyfifteen/images/top_full.png'/></th></tr>
+				    <tr style='text-align:center; font-size:18px;color:#000;'>
+					<th align='left' style='border-bottom:1px solid #000;'>SERVICES:</th>
+					<th align='left'style='border-bottom:1px solid #000;'>DESCRIPTION:</th>
+					<th style='border-bottom:1px solid #000;'></th>
+					<th  align='right' style='border-bottom:1px solid #000;'>AMOUNT:</th>
+				    </tr>
+
+				<tr align='center'>
+				    <td align='left'>Listing</td>
+				    <td align='left'><b>Site Name:</b> Dr. Winder & Associates/Toledo Center for Clinical Research</td>
+				    <td align='center'> </td>
+				    <td align='right'>$559.00 </td>
+				</tr><tr align='center'>
+				    <td align='left'></td>
+				    <td align='left'><b>Study Type:</b> Asthma Study</td>
+                                    <td align='center'> </td>
+				    <td align='center'></td>
+				</tr>
+				<tr align='left'>
+        <td align='left'> </td>
+        <td align='left'><b>Study Level:</b> Gold $559</td>
+        <td align='center'> </td>
+        <td align='center'> </td>
+    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Phone:</b> (844) 778-9228</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 1:</b> anh.nguyen@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 2:</b> Cindy.Jimenez@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 3:</b> sgawronski@buckeye-access.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 4:</b> alambermont@buckeye-access.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 5:</b> Sergio.Lagasca@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Study Address:</b> 5800 Monroe Street Suite A-9, Sylvania, OH 43560</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Start Date:</b> 10/19/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>End Date:</b> 11/17/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr><tr align='left'>
+				    <td bordercolor='#000' align='left'>&nbsp; </td>
+				    <td bordercolor='#000' align='left'> &nbsp; </td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+					<tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+					<tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+					
+
+				<tr class='sub_total' align='left'>
+				<td align='center'  style='border-top:1px solid #000;'> </td>
+				<td align='left'  style='border-top:1px solid #000;'> </td>
+				<td align='right' colspan='2' style='border-top:1px solid #000;'>SUB TOTAL:&nbsp; $559.00</td>
+				</tr>
+				<tr class='total' align='left'>
+				<td align='center'> </td>
+				<td align='left'> </td>
+				<td align='right' colspan='2'><b>TOTAL:&nbsp; $559.00</b></td>
+				</tr>
+				</tbody>
+				<tr><th colspan='4' style='font-size: 14px;'><img style='width:100%;height:450px;' src='http://teststudy.studykik.com/wp-content/themes/twentyfifteen/images/bottum_background.png'/></th></tr>
+				</table></page><style type="text/css">
+											<!--
+											table
+											{
+												width:  100%;
+												margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;
+											}
+
+											th{padding:8px 0px;}
+											td
+											{
+											padding:6px 0px;
+											}
+											tbody{
+											margin:0px 20px 0px 20px;
+											padding: 0px 20px 0px 20px;
+
+											}
+
+											h1{ font-size:21px; margin:-15px 0px 10px 0px; padding:0px 0px 0px 0px;}
+											tbody tr{ font-size:14px;}
+											body{margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;}
+
+											-->
+											</style>
+				  <page backtop='2mm' backbottom='0mm' backleft='5mm' backright='5mm'>
+				 <table cellpadding='0' cellspacing='0'>
+				<col style='width: 18%'>
+				<col style='width: 57%'>
+				<col style='width: 5%'>
+				<col style='width: 20%'>
+
+				      <tr>
+					<th style='text-align:left; margin-left:20px;' colspan='2'><img style='width:295px; height:52px;' src='http://teststudy.studykik.com/wp-content/themes/twentyfifteen/images/background_top.png'/><p style='font-size:14px; color:#959ca1;font-weight:normal; margin:2px 0px 0px 0px; line-height:18px;'><b>StudyKIK</b><br />1675 Scenic Ave #150<br />Costa Mesa, CA 92626</p></th>
+					<th colspan='2' style='text-align:right;margin:0px 20px 0px 0px;font-size:16px; color:#959ca1;font-weight:normal; line-height:20px; font-weight:300px;'>
+					<h1>INVOICE RECEIPT</h1>
+					Invoice Number: 7268265<br />
+                    Invoice Date: 10/19/2015<br />
+                    Term | Due on Receipt</th>
+				    </tr>
+				<tbody>
+				<tr>
+					<th style='text-align:left' colspan='4'><img style='width:100%;' src='http://teststudy.studykik.com/wp-content/themes/twentyfifteen/images/top_full.png'/></th></tr>
+				    <tr style='text-align:center; font-size:18px;color:#000;'>
+					<th align='left' style='border-bottom:1px solid #000;'>SERVICES:</th>
+					<th align='left'style='border-bottom:1px solid #000;'>DESCRIPTION:</th>
+					<th style='border-bottom:1px solid #000;'></th>
+					<th  align='right' style='border-bottom:1px solid #000;'>AMOUNT:</th>
+				    </tr>
+
+				<tr align='center'>
+				    <td align='left'>Listing</td>
+				    <td align='left'><b>Site Name:</b> West Houston Clinical Research</td>
+				    <td align='center'> </td>
+				    <td align='right'>$559.00 </td>
+				</tr><tr align='center'>
+				    <td align='left'></td>
+				    <td align='left'><b>Study Type:</b> Asthma Study</td>
+                                    <td align='center'> </td>
+				    <td align='center'></td>
+				</tr>
+				<tr align='left'>
+        <td align='left'> </td>
+        <td align='left'><b>Study Level:</b> Gold $559</td>
+        <td align='center'> </td>
+        <td align='center'> </td>
+    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Phone:</b> (844) 778-9228</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 1:</b> anh.nguyen@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 2:</b> Sergio.Lagasca@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 3:</b> lbula@whcrs.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 4:</b> bsuarez@whcrs.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 5:</b> Cindy.Jimenez@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Study Address:</b> 2026 Wirt Road 2nd Floor Houston, Texas, USA</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Start Date:</b> 10/19/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>End Date:</b> 11/17/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr><tr align='left'>
+				    <td bordercolor='#000' align='left'>&nbsp; </td>
+				    <td bordercolor='#000' align='left'> &nbsp; </td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+					<tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+					<tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+					
+
+				<tr class='sub_total' align='left'>
+				<td align='center'  style='border-top:1px solid #000;'> </td>
+				<td align='left'  style='border-top:1px solid #000;'> </td>
+				<td align='right' colspan='2' style='border-top:1px solid #000;'>SUB TOTAL:&nbsp; $559.00</td>
+				</tr>
+				<tr class='total' align='left'>
+				<td align='center'> </td>
+				<td align='left'> </td>
+				<td align='right' colspan='2'><b>TOTAL:&nbsp; $559.00</b></td>
+				</tr>
+				</tbody>
+				<tr><th colspan='4' style='font-size: 14px;'><img style='width:100%;height:450px;' src='http://teststudy.studykik.com/wp-content/themes/twentyfifteen/images/bottum_background.png'/></th></tr>
+				</table></page><style type="text/css">
+											<!--
+											table
+											{
+												width:  100%;
+												margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;
+											}
+
+											th{padding:8px 0px;}
+											td
+											{
+											padding:6px 0px;
+											}
+											tbody{
+											margin:0px 20px 0px 20px;
+											padding: 0px 20px 0px 20px;
+
+											}
+
+											h1{ font-size:21px; margin:-15px 0px 10px 0px; padding:0px 0px 0px 0px;}
+											tbody tr{ font-size:14px;}
+											body{margin:0px 0px 0px 0px;
+												padding: 0px 0px 0px 0px;}
+
+											-->
+											</style>
+				  <page backtop='2mm' backbottom='0mm' backleft='5mm' backright='5mm'>
+				 <table cellpadding='0' cellspacing='0'>
+				<col style='width: 18%'>
+				<col style='width: 57%'>
+				<col style='width: 5%'>
+				<col style='width: 20%'>
+
+				      <tr>
+					<th style='text-align:left; margin-left:20px;' colspan='2'><img style='width:295px; height:52px;' src='http://teststudy.studykik.com/wp-content/themes/twentyfifteen/images/background_top.png'/><p style='font-size:14px; color:#959ca1;font-weight:normal; margin:2px 0px 0px 0px; line-height:18px;'><b>StudyKIK</b><br />1675 Scenic Ave #150<br />Costa Mesa, CA 92626</p></th>
+					<th colspan='2' style='text-align:right;margin:0px 20px 0px 0px;font-size:16px; color:#959ca1;font-weight:normal; line-height:20px; font-weight:300px;'>
+					<h1>INVOICE RECEIPT</h1>
+					Invoice Number: 7268266<br />
+                    Invoice Date: 10/20/2015<br />
+                    Term | Due on Receipt</th>
+				    </tr>
+				<tbody>
+				<tr>
+					<th style='text-align:left' colspan='4'><img style='width:100%;' src='http://teststudy.studykik.com/wp-content/themes/twentyfifteen/images/top_full.png'/></th></tr>
+				    <tr style='text-align:center; font-size:18px;color:#000;'>
+					<th align='left' style='border-bottom:1px solid #000;'>SERVICES:</th>
+					<th align='left'style='border-bottom:1px solid #000;'>DESCRIPTION:</th>
+					<th style='border-bottom:1px solid #000;'></th>
+					<th  align='right' style='border-bottom:1px solid #000;'>AMOUNT:</th>
+				    </tr>
+
+				<tr align='center'>
+				    <td align='left'>Listing</td>
+				    <td align='left'><b>Site Name:</b> Sylvana Research Associates</td>
+				    <td align='center'> </td>
+				    <td align='right'>$559.00 </td>
+				</tr><tr align='center'>
+				    <td align='left'></td>
+				    <td align='left'><b>Study Type:</b> Asthma Study</td>
+                                    <td align='center'> </td>
+				    <td align='center'></td>
+				</tr>
+				<tr align='left'>
+        <td align='left'> </td>
+        <td align='left'><b>Study Level:</b> Gold $559</td>
+        <td align='center'> </td>
+        <td align='center'> </td>
+    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Phone:</b> (844) 778-9228</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 1:</b> ssyring@sylvanaresearch.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 2:</b> Sergio.Lagasca@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 3:</b> anh.nguyen@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'><b>Recruitment Email 4:</b> Cindy.Jimenez@wcct.com</td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Study Address:</b> 7711 Louis Pasteur Drive / Suite 406 San Antonio, Texas 78229</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>Start Date:</b> 10/20/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr>
+				<tr align='left'>
+				<td align='left'> </td>
+				<td align='left'><b>End Date:</b> 11/18/2015</td>
+				<td align='center'> </td>
+				<td align='center'> </td>
+				</tr><tr align='left'>
+				    <td bordercolor='#000' align='left'>&nbsp; </td>
+				    <td bordercolor='#000' align='left'> &nbsp; </td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    <td bordercolor='#000' align='center'> &nbsp;</td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+					<tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr><tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+					<tr align='left'>
+				    <td align='left'> </td>
+				    <td align='left'> </td>
+				    <td align='center'> </td>
+				    <td align='center'> </td>
+				    </tr>
+					
+
+				<tr class='sub_total' align='left'>
+				<td align='center'  style='border-top:1px solid #000;'> </td>
+				<td align='left'  style='border-top:1px solid #000;'> </td>
+				<td align='right' colspan='2' style='border-top:1px solid #000;'>SUB TOTAL:&nbsp; $559.00</td>
+				</tr>
+				<tr class='total' align='left'>
+				<td align='center'> </td>
+				<td align='left'> </td>
+				<td align='right' colspan='2'><b>TOTAL:&nbsp; $559.00</b></td>
+				</tr>
+				</tbody>
+				<tr><th colspan='4' style='font-size: 14px;'><img style='width:100%;height:450px;' src='http://teststudy.studykik.com/wp-content/themes/twentyfifteen/images/bottum_background.png'/></th></tr>
+				</table></page>
